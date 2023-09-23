@@ -1,4 +1,6 @@
+
 # TechBazzar eCommerce Platform
+[Demo Link](https://techbazaar2-03b6a14861c6.herokuapp.com/)
 
 > eCommerce platform built with the MERN stack & Redux.
  
