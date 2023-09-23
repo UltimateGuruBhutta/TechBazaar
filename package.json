@@ -1,6 +1,9 @@
 {
   "name": "TechBazaar",
   "version": "1.0.0",
+  "engines": {
+    "node": "14.12"  
+  },
   "description": "MERN shopping cart app",
   "main": "server.js",
   "type": "module",
